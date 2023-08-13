@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main -prints with proper grammar, but the outcome is a piece of art,  followed by a new line.
+ * main -prints "with proper grammar, but the outcome is
+ *              a piece of art," followed by a new line.
  *
  * Retern: Always 0.
  */
@@ -10,4 +11,3 @@ int main(void)
 
 		return (0);
 }
-		
